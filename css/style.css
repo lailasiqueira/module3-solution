@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.navegation{    
+    text-transform: uppercase;
+    height: 70px;
+}
+
+.navbar-header{
+    background-color:white;
+}
+
+.nav-list a {
+    text-align: center;
+    color:indigo;
+}
+.nav-list a:hover{
+    background:purple;
+}
+/*--------MAIN-CONTENT----------*/
+
+.main-content{
+    padding:40px;
+}
+
+.content{
+    width:100%;
+    height:auto;
+    background-color:lightcoral;
+    padding:15px;
+    margin-bottom: 50px;
+    text-align: justify;
+}
+.content h1{
+    font-size: 25px;  
+    text-align: center;  
+    font-style: italic;
+}
+
+/* esse site não tem footer*/
